@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janphier.
 - 👀 I’m interested in software programming and coding.
-- 🌱 I’m currently learning in programming in various languages.
+- 🌱 I’m currently learning in programming software in various languages.
 - 💞️ I am looking to collaborate in the development of Backend web pages.
 - 📫 How to reach me by e-mail.
 
